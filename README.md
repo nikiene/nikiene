@@ -2,9 +2,11 @@
     <h1> Sup! I'm Nikolas Kiene, Computer Science student! </h1>
 </div>
 
+    
 - 😄 about me: Nikolas Kiene | 18 yo | He / Him | My hobbies are music and video games ;)
 - 🔭 I'm currently an intern and I work with Java back-end with the Quarkus framework!
 - 🌱 I'm currently studying Data Structure in C and OOP with C# + .NET Framework.
+
 
     ##
     
@@ -16,7 +18,6 @@
     </div>
 
     <div style="display: inline_block"><br>
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> | Feel free to contact me on discord :D | Nikolas#5224
         <img align="right" src="https://media.discordapp.net/attachments/429692107800969226/892532508728623204/Chatting.gif">
     </div>
     
@@ -29,4 +30,8 @@
         <a href = "mailto:nikolasnovo03@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
         <a href="https://www.linkedin.com/in/nikolas-miguel-kiene-novo-378a70197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
         <a href="https://open.spotify.com/user/5x18rhwkiiks5kqic11zyp6is" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+    
+    <br>
+    
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> | Feel free to contact on Discord! ;D | Nikolas#5224
     </div>
