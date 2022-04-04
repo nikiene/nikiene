@@ -3,9 +3,9 @@
 </div>
 
     
-- 😄 about me: Nikolas Kiene | 18 yo | He / Him | My hobbies are music and video games ;)
-- 🔭 I'm currently an intern and I work with Java back-end with the Quarkus framework!
-- 🌱 I'm currently studying Data Structure in C and OOP with C# + .NET Framework.
+- 😄 ***about me: Nikolas Kiene | 18 yo | He / Him | My hobbies are music and video games ;)***
+- 🔭 ***I'm currently an intern and I work with Java back-end with the Quarkus framework!***
+- 🌱 ***I'm currently studying Data Structure in C and OOP with C# + .NET Framework.***
 
 
     ##
@@ -33,5 +33,5 @@
     
     <br>
     
-    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> | Feel free to contact on Discord! ;D | Nikolas#5224
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> ***| Feel free to contact on Discord! ;D | Nikolas#5224***
     </div>
