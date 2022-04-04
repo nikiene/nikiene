@@ -16,7 +16,7 @@
     </div>
 
     <div style="display: inline_block"><br>
-        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><p>| Feel free to contact me on discord :D | Nikolas#5224</p>
+        <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> | Feel free to contact me on discord :D | Nikolas#5224
         <img align="right" src="https://media.discordapp.net/attachments/429692107800969226/892532508728623204/Chatting.gif">
     </div>
     
