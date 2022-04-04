@@ -4,7 +4,7 @@
 
 - 😄 about me: Nikolas Kiene | 18 yo | He / Him | My hobbies are music and video games ;)
 - 🔭 I'm currently an intern and I work with Java back-end with the Quarkus framework!
-- 🌱 I'm currently studying Data Structure in C and POO with C# + .NET Framework.
+- 🌱 I'm currently studying Data Structure in C and OOP with C# + .NET Framework.
 
     ##
     
