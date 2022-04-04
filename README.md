@@ -2,11 +2,10 @@
     <h1> Sup! I'm Nikolas Kiene, Computer Science student! </h1>
 </div>
 
-    
+
 - 😄 ***about me: Nikolas Kiene | 18 yo | He / Him | My hobbies are music and video games ;)***
 - 🔭 ***I'm currently an intern and I work with Java back-end with the Quarkus framework!***
 - 🌱 ***I'm currently studying Data Structure in C and OOP with C# + .NET Framework.***
-
 
     ##
     
