@@ -32,5 +32,5 @@
     
     <br>
     
-    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> ***| Feel free to contact on Discord! ;D | Nikolas#5224***
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> ***| Feel free to contact me on Discord! ;D | Nikolas#5224***
     </div>
