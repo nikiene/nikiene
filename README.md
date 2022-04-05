@@ -9,11 +9,9 @@
 
     ##
     
-    <div align="center">
-        <br>
-        <a href="https://github.com/nikiene">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nikiene&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </div>
+    <br>
+    
+                                         Check my Organizations for more info on my projects!
 
     <div style="display: inline_block"><br>
         <img align="right" src="https://media.discordapp.net/attachments/429692107800969226/892532508728623204/Chatting.gif">
