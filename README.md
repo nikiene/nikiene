@@ -8,9 +8,6 @@
     ##
     
     <br>
-    
-                                         Check my Organizations for more info on my projects!
-
     <div style="display: inline_block"><br>
         <img align="right" src="https://media.discordapp.net/attachments/429692107800969226/892532508728623204/Chatting.gif">
     </div>
