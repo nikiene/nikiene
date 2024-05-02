@@ -6,14 +6,14 @@
 - 😄 ***about me: Nikolas Kiene | 20 yo | He / Him | My hobbies are music and video games ;)***
 - ***currently im studying and looking for a job as a software developer/analist***
 
-    ##
+  ##
     
     <br>
     <div style="display: inline_block"><br>
         <img align="right" src="https://media.discordapp.net/attachments/429692107800969226/892532508728623204/Chatting.gif">
     </div>
     
-    ## 
+  ## 
     
     <div align="center">
         <br>
