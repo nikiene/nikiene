@@ -3,7 +3,7 @@
 </div>
 
 
-- 😄 ***about me: Nikolas Kiene | 29 yo | He / Him | My hobbies are music and video games ;)***
+- 😄 ***about me: Nikolas Kiene | 20 yo | He / Him | My hobbies are music and video games ;)***
 
     ##
     
