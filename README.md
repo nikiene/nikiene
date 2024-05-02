@@ -3,7 +3,7 @@
 </div>
 
 
-- 😄 ***about me: Nikolas Kiene | 19 yo | He / Him | My hobbies are music and video games ;)***
+- 😄 ***about me: Nikolas Kiene | 29 yo | He / Him | My hobbies are music and video games ;)***
 
     ##
     
@@ -24,5 +24,5 @@
     
     <br>
     
-    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> ***| Feel free to contact me on Discord! ;D | Nikolas#5224***
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> ***| Feel free to contact me on Discord! ;D | Nikolas#5224 | fubangojogos***
     </div>
