@@ -4,6 +4,7 @@
 
 
 - 😄 ***about me: Nikolas Kiene | 20 yo | He / Him | My hobbies are music and video games ;)***
+-     ***currently im studying and looking for a job as a software developer/analist***
 
     ##
     
