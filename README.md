@@ -25,5 +25,5 @@
     
     <br>
     
-    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> ***| Feel free to contact me on Discord! ;D | Nikolas#5224 | fubangojogos***
+    <img align="center" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"> ***| Feel free to contact me on Discord! @fubangojogos***
     </div>
