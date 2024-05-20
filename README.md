@@ -1,4 +1,7 @@
-#
+<div align="center">
+    <h1><i> Who Am I? </i></h1>
+</div>
+
 <div align="center">
     <div>
         <kbd>
@@ -9,8 +12,7 @@
 
 #
 <div align="center">
-    <h3> Who Am I? </h3>
-    <h5> Niko ☾ Kina ☾ Zenkie </h5>
+    <h5><b><i> Niko ☾ Kina ☾ Zenkie </i></b></h5>
     <p>
         <sup>
             Computer Scientist (7/8) ☾ 20yo ☾ 🇧🇷 <br>
