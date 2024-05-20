@@ -16,7 +16,7 @@
     <p>
         <sup>
             Computer Scientist (7/8) ☾ 20yo ☾ 🇧🇷 <br>
-            Music ☾ Metal ☾ Games ☾ Anime ☾ Programming
+            Music ☾ Metal ☾ Games ☾ Anime ☾ Programming ☾ Guitarist
         </sup>
     </p>
 </div>
