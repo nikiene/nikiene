@@ -31,15 +31,25 @@
 </div>
 
 #
+
+#
 <div align="center">
-    <h5> Databases </h5> <br>
+    <h5> Databases </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 #
 <div align="center">
-    <h5> Design </h5> <br>
+    <h5> Design </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
@@ -47,7 +57,11 @@
 
 #
 <div align="center">
-    <h5> Frameworks </h5> <br>
+    <h5> Frameworks </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
@@ -61,7 +75,11 @@
 
 #
 <div align="center">
-    <h5> Games </h5> <br>
+    <h5> Games </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
     <img src="https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white">
@@ -69,14 +87,22 @@
 
 #
 <div align="center">
-    <h5> SaaS </h5> <br>
+    <h5> SaaS </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 #
 <div align="center">
-    <h5> IDE's </h5> <br>
+    <h5> IDE's </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
@@ -91,7 +117,11 @@
 
 #
 <div align="center">
-    <h5> Languages </h5> <br>
+    <h5> Languages </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
@@ -107,7 +137,11 @@
 
 #
 <div align="center">
-    <h5> OS </h5> <br>
+    <h5> OS </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
@@ -115,13 +149,21 @@
 
 #
 <div align="center">
-    <h5> ORM </h5> <br>
+    <h5> ORM </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </div>
 
 #
 <div align="center">
-    <h5> Other </h5> <br>
+    <h5> Other </h5>
+</div>
+
+#
+<div>
     <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
