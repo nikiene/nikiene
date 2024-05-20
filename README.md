@@ -33,7 +33,6 @@
     <h1> My Knowledge </h1>
 </div>
 
-#
 
 #
 <div align="center">
@@ -194,7 +193,6 @@
     <h1> Contact me </h1>
 </div>
 
-#
 <div align="center">
     <div>
         <table>
