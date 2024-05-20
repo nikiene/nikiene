@@ -21,7 +21,7 @@
 #
 <div align="center">
     <kbd>
-        <img src="https://github.com/nikiene/nikiene/assets/80795579/aadd9493-e67e-4966-b789-a52ae17f52be" style="width: 375px; height: 140px;">
+        <img src="https://github.com/nikiene/nikiene/assets/80795579/90e6c4f4-5446-4447-ad4b-50f275e013fd" style="width: 375px; height: 140px;">
     </kbd>
 </div>
 
