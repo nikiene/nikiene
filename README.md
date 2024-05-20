@@ -30,7 +30,7 @@
 
 #
 <div align="center">
-    <h5> My Knowledge </h5>
+    <h1> My Knowledge </h1>
 </div>
 
 #
@@ -191,7 +191,7 @@
 
 #
 <div align="center">
-    <h5> Contact me </h5>
+    <h1> Contact me </h1>
 </div>
 
 #
