@@ -1,5 +1,6 @@
 #
 
+
 <div align="center">
     <div>
         <kbd>
@@ -9,6 +10,7 @@
 </div>
 
 #
+
 
 <div align="center">
     <h5> Niko ☾ Kina ☾ Zenkie </h5>
@@ -22,6 +24,7 @@
 
 #
 
+
 <div align="center">
     <kbd>
         <img src="https://github.com/nikiene/nikiene/assets/80795579/90e6c4f4-5446-4447-ad4b-50f275e013fd" style="width: 375px; height: 140px;">
@@ -29,6 +32,7 @@
 </div>
 
 #
+
 
 <div align="center">
     <h5> My Knowledge </h5>
@@ -38,11 +42,13 @@
 
 #
 
+
 <div align="center">
     <h5> Databases </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
@@ -52,25 +58,29 @@
 
 #
 
+
 <div align="center">
     <h5> Design </h5>
 </div>
 
 #
 
+
 <div>
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+    <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white">
 </div>
 
 #
 
+
 <div align="center">
     <h5> Frameworks </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
@@ -87,11 +97,13 @@
 
 #
 
+
 <div align="center">
     <h5> Games </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white">
@@ -101,11 +113,13 @@
 
 #
 
+
 <div align="center">
     <h5> SaaS </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
@@ -114,11 +128,13 @@
 
 #
 
+
 <div align="center">
     <h5> IDE's </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
@@ -135,11 +151,13 @@
 
 #
 
+
 <div align="center">
     <h5> Languages </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
@@ -158,11 +176,13 @@
 
 #
 
+
 <div align="center">
     <h5> OS </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
@@ -172,11 +192,13 @@
 
 #
 
+
 <div align="center">
     <h5> ORM </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
@@ -184,11 +206,13 @@
 
 #
 
+
 <div align="center">
     <h5> Other </h5>
 </div>
 
 #
+
 
 <div>
     <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
@@ -210,7 +234,6 @@
 </div>
 
 #
-
 <div align="center">
     <h5> Contact me </h5>
 </div>
@@ -232,7 +255,7 @@
                     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
                 </td>
                 <td valign="center">
-                    → [LinkedIn](https://www.linkedin.com/in/nikolas-miguel-kiene-novo-378a70197/)
+                    → https://www.linkedin.com/in/nikolas-miguel-kiene-novo-378a70197/
                 </td>
             </tr>
         </table>
