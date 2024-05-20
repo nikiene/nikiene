@@ -1,4 +1,5 @@
 #
+
 <div align="center">
     <div>
         <kbd>
@@ -8,6 +9,7 @@
 </div>
 
 #
+
 <div align="center">
     <h5> Niko ☾ Kina ☾ Zenkie </h5>
     <p>
@@ -19,6 +21,7 @@
 </div>
 
 #
+
 <div align="center">
     <kbd>
         <img src="https://github.com/nikiene/nikiene/assets/80795579/90e6c4f4-5446-4447-ad4b-50f275e013fd" style="width: 375px; height: 140px;">
@@ -26,6 +29,7 @@
 </div>
 
 #
+
 <div align="center">
     <h5> My Knowledge </h5>
 </div>
@@ -33,22 +37,27 @@
 #
 
 #
+
 <div align="center">
     <h5> Databases </h5>
 </div>
 
 #
+
 <div>
+    <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
 </div>
 
 #
+
 <div align="center">
     <h5> Design </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
@@ -56,13 +65,16 @@
 </div>
 
 #
+
 <div align="center">
     <h5> Frameworks </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white">
+    <img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
     <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
     <img src="https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220">
@@ -74,11 +86,13 @@
 </div>
 
 #
+
 <div align="center">
     <h5> Games </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white">
     <img src="https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white">
@@ -86,22 +100,26 @@
 </div>
 
 #
+
 <div align="center">
     <h5> SaaS </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white">
 </div>
 
 #
+
 <div align="center">
     <h5> IDE's </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
     <img src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white">
@@ -116,11 +134,13 @@
 </div>
 
 #
+
 <div align="center">
     <h5> Languages </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white">
     <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
@@ -128,6 +148,7 @@
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+    <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
     <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white">
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -136,11 +157,13 @@
 </div>
 
 #
+
 <div align="center">
     <h5> OS </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
@@ -148,21 +171,25 @@
 </div>
 
 #
+
 <div align="center">
     <h5> ORM </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white">
 </div>
 
 #
+
 <div align="center">
     <h5> Other </h5>
 </div>
 
 #
+
 <div>
     <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white">
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
@@ -179,11 +206,37 @@
     <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+</div>
+
+#
+
+<div align="center">
+    <h5> Contact me </h5>
 </div>
 
 #
 <div align="center">
-    <h5> Contact me </h5>
+    <div>
+        <table>
+            <tr>
+                <td align="center">
+                    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white">
+                </td>
+                <td valign="center">
+                    → fubangojogos
+                </td>
+            </tr>
+            <tr>
+                <td align="center">
+                    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+                </td>
+                <td valign="center">
+                    → [LinkedIn](https://www.linkedin.com/in/nikolas-miguel-kiene-novo-378a70197/)
+                </td>
+            </tr>
+        </table>
+    </div>
 </div>
 
 #
