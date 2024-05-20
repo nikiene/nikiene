@@ -228,7 +228,7 @@
                     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
                 </td>
                 <td valign="center">
-                    → [LinkedIn](https://www.linkedin.com/in/nikolas-miguel-kiene-novo-378a70197/)
+                    → https://www.linkedin.com/in/nikolas-miguel-kiene-novo-378a70197/
                 </td>
             </tr>
         </table>
