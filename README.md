@@ -23,7 +23,11 @@
 <div align="center">
     <p>
         <sup>
-            I'm currently refactoring/revamping my uni related repositories.
+            I'm currently refactoring/revamping my uni related repositories.<br>
+            Next steps:<br>
+                Maybe get better at Assembly<br>
+                Learn about Software Reverse Engineering<br>
+                Learn about Malware Development<br>
         </sup>
     </p>
 </div>
