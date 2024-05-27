@@ -23,7 +23,7 @@
 <div align="center">
     <p>
         <sup>
-            I'm currently taking an ABAP developer certification and refactoring/revamping my uni related repositories.
+            I'm currently refactoring/revamping my uni related repositories.
         </sup>
     </p>
 </div>
