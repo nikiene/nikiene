@@ -25,7 +25,6 @@
         <sup>
             I'm currently refactoring/revamping my uni related repositories.<br>
             Next steps:<br>
-                Fullstack .NET project<br>
                 Finish my League of Legends theme<br>
                 Create a website<br>
                 Create the React Front-End for my Java/Spring Todo List<br>
