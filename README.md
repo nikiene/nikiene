@@ -15,7 +15,7 @@
     <h5><b><i> Niko ☾ Kina ☾ Zenkie </i></b></h5>
     <p>
         <sup>
-            Computer Scientist (7/8) ☾ 20yo ☾ 🇧🇷 <br>
+            Computer Scientist (7/8) ☾ 21yo ☾ 🇧🇷 <br>
             Music ☾ Metal ☾ Games ☾ Anime ☾ Programming ☾ Guitarist
         </sup>
     </p>
