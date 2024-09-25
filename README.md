@@ -21,19 +21,7 @@
     </p>
 </div>
 <div align="center">
-    <p>
-        <sup>
-            I'm currently refactoring/revamping my uni related repositories.<br>
-            Next steps:<br>
-                Finish my League of Legends theme<br>
-                Create a website<br>
-                Create the React Front-End for my Java/Spring Todo List<br>
-                Add more functionalities to simple-text-editor<br>
-                Maybe get better at Assembly<br>
-                Learn about Software Reverse Engineering<br>
-                Learn about Malware Development<br>
-        </sup>
-    </p>
+
 </div>
 
 #
